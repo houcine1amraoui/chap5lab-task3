@@ -6,7 +6,7 @@ Solve the lab by accessing the admin panel and using it to delete one of the use
 
 Instructions:
 
-- You can log in to your own user account by using the following credentials: brvbdy:yxexgm
+- You can log in to your own user account by using the provided credentials (check out the home page of the application).
 
 Hints:
 
